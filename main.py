@@ -1,3 +1,6 @@
 print("Hello world")
 
-print("Stelios is awesome")
+a = 1
+b = 2
+
+print(a + b)
